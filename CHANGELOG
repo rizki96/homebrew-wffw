@@ -1,0 +1,7 @@
+version 0.4.5 [20220222]
+- add windows support
+- change mailer function using Swoosh (https://github.com/swoosh/swoosh)
+- add attachment support for mailer
+- add function for string processing
+- add support for docker compose
+- various fix in workflow json scripts
