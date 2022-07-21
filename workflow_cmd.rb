@@ -1,5 +1,5 @@
 class WorkflowCmd < Formula
-  version "0.4.8"
+  version "0.5.1"
 
   desc "Running the JSON workflow DSL via command-line"
   homepage "https://github.com/rizki96/workflow_cmd"
