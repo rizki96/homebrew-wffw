@@ -4,7 +4,7 @@ class WorkflowCmd < Formula
   desc "Running the JSON workflow DSL via command-line"
   homepage "https://github.com/rizki96/workflow_cmd"
   url "https://github.com/rizki96/workflow_cmd/releases/latest/download/workflow_cmd.tar.gz"
-  sha256 "a3d417ed952af87fa87b8c8bd8e4cd91eb4ab06f42937f14dec610550b306c07"
+  sha256 "c0bfb3f2221732afef781cdd3202723336d05b42e5fc6aab6188a22c3a1069eb"
 
   #bottle :unneeded
 
